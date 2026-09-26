@@ -1,10 +1,146 @@
 [
     {
         "task_id": 1,
-        "title": "nwj",
-        "subject": "dj",
-        "priority": "dje",
-        "deadline": "j de",
+        "title": "Python Data Structures Assignment",
+        "subject": "Python",
+        "priority": "High",
+        "deadline": "2026-09-18",
+        "status": "Pending"
+    },
+    {
+        "task_id": 2,
+        "title": "Database Normalization Exercise",
+        "subject": "DBMS",
+        "priority": "Medium",
+        "deadline": "2026-09-22",
+        "status": "Pending"
+    },
+    {
+        "task_id": 3,
+        "title": "Communication Skills Presentation",
+        "subject": "Communication",
+        "priority": "Low",
+        "deadline": "2026-09-24",
         "status": "Completed"
+    },
+    {
+        "task_id": 4,
+        "title": "Python File Handling Practice",
+        "subject": "Python",
+        "priority": "Medium",
+        "deadline": "2026-09-25",
+        "status": "Pending"
+    },
+    {
+        "task_id": 5,
+        "title": "Linear Regression Implementation",
+        "subject": "Machine Learning",
+        "priority": "High",
+        "deadline": "2026-09-26",
+        "status": "Pending"
+    },
+    {
+        "task_id": 6,
+        "title": "SQL Query Practice Set",
+        "subject": "DBMS",
+        "priority": "Medium",
+        "deadline": "2026-09-27",
+        "status": "Completed"
+    },
+    {
+        "task_id": 7,
+        "title": "Python Functions Revision",
+        "subject": "Python",
+        "priority": "Low",
+        "deadline": "2026-09-28",
+        "status": "Pending"
+    },
+    {
+        "task_id": 8,
+        "title": "Decision Tree Classification Task",
+        "subject": "Machine Learning",
+        "priority": "High",
+        "deadline": "2026-09-29",
+        "status": "Pending"
+    },
+    {
+        "task_id": 9,
+        "title": "ER Diagram Practice",
+        "subject": "DBMS",
+        "priority": "Low",
+        "deadline": "2026-09-30",
+        "status": "Pending"
+    },
+    {
+        "task_id": 10,
+        "title": "Python Exception Handling Exercises",
+        "subject": "Python",
+        "priority": "High",
+        "deadline": "2026-10-01",
+        "status": "Completed"
+    },
+    {
+        "task_id": 11,
+        "title": "Clustering Algorithm Research",
+        "subject": "Machine Learning",
+        "priority": "Medium",
+        "deadline": "2026-10-03",
+        "status": "Pending"
+    },
+    {
+        "task_id": 12,
+        "title": "Advanced SQL Joins Practice",
+        "subject": "DBMS",
+        "priority": "High",
+        "deadline": "2026-10-05",
+        "status": "Pending"
+    },
+    {
+        "task_id": 13,
+        "title": "Machine Learning Model Evaluation",
+        "subject": "Machine Learning",
+        "priority": "Medium",
+        "deadline": "2026-10-09",
+        "status": "Completed"
+    },
+    {
+        "task_id": 14,
+        "title": "Database Transactions Assignment",
+        "subject": "DBMS",
+        "priority": "High",
+        "deadline": "2026-10-11",
+        "status": "Pending"
+    },
+    {
+        "task_id": 15,
+        "title": "Technical Communication Report",
+        "subject": "Communication",
+        "priority": "Medium",
+        "deadline": "2026-10-13",
+        "status": "Pending"
+    },
+    {
+        "task_id": 16,
+        "title": "Python List and Dictionary Project",
+        "subject": "Python",
+        "priority": "Medium",
+        "deadline": "2026-10-15",
+        "status": "Completed"
+    },
+    {
+        "task_id": 17,
+        "title": "Neural Network Fundamentals",
+        "subject": "Machine Learning",
+        "priority": "High",
+        "deadline": "2026-10-18",
+        "status": "Pending"
+    },
+    {
+        "task_id": 18,
+        "title": "Database Indexing Research",
+        "subject": "DBMS",
+        "priority": "Low",
+        "deadline": "2026-10-20",
+        "status": "Pending"
     }
 ]
