@@ -713,4 +713,5 @@ The current version is a command-line based Student Task & Study Planner with:
 
 ## 16. Author
 
-Developed as a project for the VITyarthi course evaluation process.
+Neha Jaiswal
+Registration Number: 26BAI10087
